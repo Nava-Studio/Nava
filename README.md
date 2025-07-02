@@ -6,11 +6,18 @@
 
 ## ✨ Features
 
-* 📂 Open, Save, and Delete text files
-* ✏️ Undo / Redo functionality
-* 🔍 Zoom In / Out for better readability
-* 🎨 Toggle between Light and Dark themes
-* ⚡ Built for speed and simplicity
+🖋️ Clean, distraction-free writing interface  
+📁 Menus for File, Edit, and View with keyboard shortcuts  
+📝 Rich text formatting – Bold, Italic, Underline  
+📂 Open and save text files (supports .txt, .html, etc.)  
+🔁 Undo / Redo editing history  
+🔠 Justify text left or right  
+🌗 Persistent Light and Dark theme toggle  
+🔍 Zoom In / Out for better readability  
+📊 Status bar with cursor position, character count, encoding info, and more  
+🖼️ Splash screen at startup  
+🪟 Minimize, maximize, and close window controls  
+⚡ Fast, smooth, and lightweight
 
 ## 🚀 Tech Stack
 
@@ -19,9 +26,8 @@
 
 ## 📸 Preview
 
-![Screenshot 2025-06-14 105616](https://github.com/user-attachments/assets/8de5a984-72cf-4549-849f-68a931f29119)
-![Screenshot 2025-06-14 105630](https://github.com/user-attachments/assets/4e58190d-0a58-47e5-8133-1e942ee47234)
-
+![Nava v2](https://github.com/user-attachments/assets/62c3e4d1-9fef-40de-8580-646b5510cefe)
+![Nava v21](https://github.com/user-attachments/assets/7811b897-432d-48da-b498-9cd9c2c7e0ba)
 
 ## 🛠️ Getting Started
 
