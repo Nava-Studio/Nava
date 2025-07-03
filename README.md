@@ -26,8 +26,9 @@
 
 ## 📸 Preview
 
-![Nava v2](https://github.com/user-attachments/assets/5abbde1a-a810-4faf-bdb7-b21f7af7d0b1)
-![Nava v2 Dark](https://github.com/user-attachments/assets/58d51f65-aa66-4a8a-84e5-1ddf99cc2975)
+![Nava v2](https://github.com/user-attachments/assets/d5d278a0-40dc-483b-a564-59b16c6beeff)
+![Nava v2 Dark](https://github.com/user-attachments/assets/95ea32fb-d8d1-45c9-9305-038ec961d935)
+
 
 
 ## 🛠️ Getting Started
