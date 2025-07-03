@@ -2,40 +2,53 @@ Nava Freeware License v1.1
 Copyright (c) Nava Studio 2025
 All rights reserved.
 
-This software, “Nava”, is proprietary and provided at no cost for personal or limited internal business use. It is not open source.
+PLEASE READ THIS LICENSE CAREFULLY BEFORE USING THIS SOFTWARE.
+BY INSTALLING OR USING THE SOFTWARE, YOU AGREE TO BE BOUND BY THE TERMS OF THIS LICENSE.
 
-1. Grant of License
-Subject to the terms and conditions of this License, you are hereby granted a non-exclusive, non-transferable, revocable license to:
-Download, install, and use the software on personal or internal business systems, free of charge;
-Share the software internally within a single legal entity (e.g., within your company or organization), provided no modifications are made and this License is included.
+1. GRANT OF LICENSE
+This proprietary software, "Nava", is licensed, not sold. Nava Studio grants you a non-exclusive,
+non-transferable, revocable license to:
 
-2. Restrictions
-You are not permitted to:
-Reverse engineer, decompile, disassemble, or otherwise attempt to derive the source code of the software;
-Modify, adapt, translate, or create derivative works based on the software;
-Redistribute, sublicense, rent, lease, or make the software available for download outside your organization;
-Use the software for commercial purposes without prior written permission from Nava Studio.
+- Download and use the software for personal or internal business purposes, free of charge.
+- Share the software internally within your organization, provided it is unmodified and this license is included.
 
-“Commercial purposes” include, but are not limited to:
-Using the software to develop, deliver, or support commercial products or services;
-Using the software in any business process that generates revenue or is client-facing;
-Bundling or integrating the software into commercial offerings, whether free or paid.
+2. RESTRICTIONS
+You may NOT:
 
-3. Intellectual Property
-This license does not grant you any rights in or to the software’s source code, underlying structure, trade secrets, or other intellectual property.
+- Reverse engineer, decompile, disassemble, or attempt to derive the source code.
+- Modify, adapt, translate, or create derivative works based on the software.
+- Redistribute, sublicense, rent, lease, or make the software available for download outside your organization.
+- Use the software for commercial purposes without prior written permission from Nava Studio.
 
-4. Warranty Disclaimer and Limitation of Liability
-This software is provided "as is", without warranty of any kind, express or implied.
-To the maximum extent permitted by law, Nava Studio shall not be liable for any direct, indirect, incidental, or consequential damages arising from the use of the software.
+"Commercial purposes" include, but are not limited to:
+- Use in products, services, or projects that generate revenue.
+- Use on behalf of clients or external third parties.
+- Use as part of a commercial offering, even if not sold directly.
 
-5. Termination
-This license will automatically terminate if you breach any of its terms. Upon termination, you must cease all use of the software and delete all copies in your possession or control.
+3. INTELLECTUAL PROPERTY
+This license does not grant you any rights to the software's source code, algorithms, trade secrets,
+or any related intellectual property.
 
-6. Governing Law
-This License shall be governed by and construed in accordance with the laws of the Republic of Poland. Any disputes arising under or in connection with this License shall be subject to the exclusive jurisdiction of the Polish courts.
+4. DISCLAIMER OF WARRANTY
+This software is provided "AS IS", without warranty of any kind, express or implied.
+Use it at your own risk.
 
-7. License Updates
-Nava Studio reserves the right to update or modify this license in the future. Continued use of the software after such changes constitutes acceptance of the updated license. Archived versions will be available upon request.
+5. LIMITATION OF LIABILITY
+In no event shall Nava Studio be liable for any damages, including but not limited to incidental,
+consequential, or indirect damages, arising from the use or inability to use this software.
 
-8. Commercial Licensing and Contact
-For commercial licensing or extended use rights, contact: mgmt.navastudio@gmail.com
+6. TERMINATION
+This license will automatically terminate if you violate any of its terms.
+Upon termination, you must immediately stop using and delete all copies of the software.
+
+7. GOVERNING LAW
+This license is governed by the laws of the Republic of Poland.
+Any disputes arising under or in connection with this license shall be subject to the exclusive
+jurisdiction of the Polish courts.
+
+8. LICENSE UPDATES
+Nava Studio may update or revise this license at any time.
+Continued use of the software after such changes constitutes your acceptance of the new terms.
+
+9. COMMERCIAL LICENSING
+For commercial licensing or extended use rights, please contact: mgmt.navastudio@gmail.com
