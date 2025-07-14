@@ -26,8 +26,10 @@
 
 ## 📸 Preview
 
-![Nava v2](https://github.com/user-attachments/assets/d5d278a0-40dc-483b-a564-59b16c6beeff)
-![Nava v2 Dark](https://github.com/user-attachments/assets/95ea32fb-d8d1-45c9-9305-038ec961d935)
+<p align="center">
+<img alt="Nava White Theme" src="https://github.com/user-attachments/assets/3fc591ea-13b8-4e8f-8b0f-b491c5a159b7" />
+<img alt="Nava Dark Theme" src="https://github.com/user-attachments/assets/535a43cc-ea75-414a-8445-047f22d3327c" />
+</p>
 
 
 
