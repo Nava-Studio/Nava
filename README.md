@@ -33,11 +33,8 @@
 
 
 
-## 🛠️ Getting Started
+## 🛠️ Download Nava
 
 ```bash
-git clone https://github.com/Nava-Studio/Nava.git
-cd nava
-npm install
-npm start
+https://github.com/Nava-Studio/Nava/releases
 ```
