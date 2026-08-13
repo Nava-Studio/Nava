@@ -36,7 +36,7 @@
 ## 🛠️ Getting Started
 
 ```bash
-git clone https://github.com/yourusername/nava.git
+git clone https://github.com/Nava-Studio/Nava.git
 cd nava
 npm install
 npm start
