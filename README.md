@@ -35,6 +35,12 @@
 
 ## 🛠️ Download Nava
 
+**1. Go to:**
+
 ```bash
 https://github.com/Nava-Studio/Nava/releases
 ```
+
+**2. Then manually download:**
+
+<img width="939" height="266" alt="image" src="https://github.com/user-attachments/assets/55519829-f9e4-41f3-8e52-32b736d0e51d" />
